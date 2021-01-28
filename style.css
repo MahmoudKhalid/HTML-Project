@@ -1,5 +1,14 @@
 .body-main
 {
-	color: #00FF00;
 	background-color: #161616;
+}
+
+h1
+{
+	color: #FFFFFF;
+}
+
+p
+{
+	color: #FF0000;
 }
